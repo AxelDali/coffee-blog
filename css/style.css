@@ -225,6 +225,8 @@ img {
     }
 }
 
+
+/** Courses **/
 .course {
     padding: 3rem 0;
     border-bottom: 1px solid var(--grey);
